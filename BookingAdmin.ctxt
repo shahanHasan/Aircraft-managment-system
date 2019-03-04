@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=plane
+comment0.target=BookingAdmin(Aircraft)
+comment1.params=
+comment1.target=void\ setupAdmin()
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=void\ allPassengers()
+comment4.params=
+comment4.target=void\ currentRevenue()
+comment5.params=
+comment5.target=void\ currentWeight()
+comment6.params=
+comment6.target=void\ passengerType()
+comment7.params=
+comment7.target=void\ addEconomyPassenger()
+numComments=8

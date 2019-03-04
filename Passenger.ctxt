@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ weight\ passengerNumberStart
+comment0.target=Passenger(java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.params=
+comment1.target=int\ getPassengerNumber()
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment4.params=
+comment4.target=double\ getWeight()
+comment5.params=
+comment5.target=double\ getLuggage()
+comment6.params=weight
+comment6.target=void\ setWeight(double)
+comment7.params=luggage
+comment7.target=void\ setLuggage(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=weight
+comment0.target=void\ setWeight(double)
+comment1.params=
+comment1.target=double\ getWeight()
+numComments=2

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=route
+comment0.target=Aircraft(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Aircraft\r\n
+comment1.params=
+comment1.target=double\ getTotalPassengerWeight()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getRevenue()
+comment3.params=
+comment3.target=int\ getMaxPassengers()
+comment4.params=
+comment4.target=double\ getMaxWeight()
+comment5.params=
+comment5.target=java.lang.String\ getRoute()
+comment6.params=
+comment6.target=java.lang.String\ listPassengers()
+comment7.params=passenger
+comment7.target=boolean\ addPassenger(Passenger)
+comment8.params=passengerNumber
+comment8.target=Passenger\ findPassenger(int)
+comment9.params=passengerNumber
+comment9.target=void\ removePassenger(int)
+numComments=11

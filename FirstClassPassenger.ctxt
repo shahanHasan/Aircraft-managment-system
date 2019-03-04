@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ weight\ baseFare\ FFC
+comment0.target=FirstClassPassenger(java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getAdditional_Luggage()
+comment3.params=Additional_luggage
+comment3.target=void\ setAdditional_Luggage(double)
+comment4.params=
+comment4.target=double\ getWeighT()
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ weight\ passengerNumber\ baseFare\ typeCharge\ FFC
+comment0.target=PayingPassenger(java.lang.String,\ java.lang.String,\ double,\ int,\ double,\ double,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ method\ ensures\ that\ when\ a\ passenger\ is\ created,\ the\ base\ fare\ and\ type\ charge\r\n\ are\ included\ in\ the\ instantiation\r\n\ \r\n\ @param\ firstName\ passengers\ first\ name\r\n\ @param\ lastName\ passengers\ last\ name\r\n\ @param\ weight\ passengers\ body\ weight\r\n\ @param\ passengerNumber\ passengers\ ID\ number\r\n\ @param\ baseFare\ passengers\ base\ amount\ to\ pay\ based\ on\ the\ route\r\n\ @param\ typeCharge\ passengers\ amount\ to\ pay\ based\ on\ cabin\ class\ type\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFFC()
+comment1.text=\r\n\ gets\ the\ ffc\ field\ \r\n\ \r\n
+comment2.params=
+comment2.target=double\ getBaseFare()
+comment2.text=\r\n\ Gets\ the\ base\ fare\ for\ the\ passenger\r\n\ \r\n\ @return\ A\ double\ that\ is\ the\ base\ fare\ for\ the\ passenger\ based\ on\ their\ route\r\n
+comment3.params=
+comment3.target=double\ getTypeCharge()
+comment3.text=\r\n\ Gets\ the\ type\ charge\ for\ the\ passenger\r\n\ \r\n\ @return\ A\ double\ that\ is\ the\ type\ charge\ for\ the\ passenger\ based\ on\ their\ cabin\ class\r\n
+comment4.params=
+comment4.target=double\ getCharge()
+comment4.text=\r\n\ Gets\ the\ total\ charge\ for\ the\ passenger\r\n\ \r\n\ @return\ A\ double\ that\ is\ the\ total\ amount\ the\ passenger\ has\ to\ pay\ based\ on\ the\ passengers\ base\ \r\n\ fare,\ weight\ and\ type\ charge\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Neatly\ displays\ the\ costs\ that\ the\ passenger\ has\r\n\ \r\n\ @return\ A\ set\ of\ strings,\ where\ each\ string\ is\ an\ amount\ of\ money\ the\ passenger\ has\ to\ pay\r\n
+numComments=6

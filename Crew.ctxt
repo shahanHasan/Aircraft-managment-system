@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=position\ firstName\ lastName\ weight
+comment0.target=Crew(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Crew\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2
